@@ -1,4 +1,4 @@
-package com.c4s.vanilla.main;
+package main.java.com.c4s.vanilla;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
